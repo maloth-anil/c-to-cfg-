@@ -346,7 +346,7 @@ Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser
 **Parse error in C file**
 - Parser auto-removes `#include`, `#define`, comments
 - Check balanced `{}` braces in your C code
-- Check the line number shown in the error
+- Check the line number shown in the errors
 
 **matplotlib build fails**
 ```powershell
