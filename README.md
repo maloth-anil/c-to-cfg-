@@ -366,4 +366,4 @@ streamlit --version
 - [x] Phase 1 — C to CFG
 - [x] Phase 2 — Static Analysis
 - [x] Phase 3 — Optimizations
-- [x] Bonus — Web Dashboard (Streamlit)
+- [x] Bonus — Web Dashboard (Streamlit).
